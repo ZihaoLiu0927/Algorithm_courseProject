@@ -3,7 +3,7 @@
   
   Course website: https://www.coursera.org/learn/algorithms-part1
   
-  1. percolation
+  1. Percolation
   
   2. Deque
   
