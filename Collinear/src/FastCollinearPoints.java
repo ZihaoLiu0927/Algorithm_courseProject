@@ -31,7 +31,7 @@ public class FastCollinearPoints {
                     if (count >= 3) {
                         if (copyPoint[min].compareTo(copyPoint[0]) > 0) {
                             min = 0;
-                            lineSet.add(new LineSegment(copyPoint[min], copyPoint[max]));
+                            lineSet.add(new LineSegment(copyPoint[min], copyPoint[max])); // In finding longest segments, each segment will be counted repeatedly four times in four different slope orders. To avoid adding redundant segment, only segment with its slope order matching nature order will be added into the list.
                         }
                     }
                     max = j;
