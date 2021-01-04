@@ -38,7 +38,7 @@ public class RandomizedQueue<Item> implements Iterable<Item> {
         int randNum = StdRandom.uniform(num);
         Item item = a[randNum];
         swap(randNum, --num);
-        a[--num] = null;
+        a[num] = null;
         if (num > 0 && num == a.length / 4) resize(a.length / 2);
         return item;
     }
