@@ -1,5 +1,5 @@
 # Algorithm (Part I) Course Projects
-  Recording all the code for the algorithm (Coursera, by Kevin Wayne & Robert Sedgewick) course projects
+  The algorithm (Coursera, by Kevin Wayne & Robert Sedgewick) course projects code.
   
   Course website: https://www.coursera.org/learn/algorithms-part1
   
