@@ -37,7 +37,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -60,5 +61,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="222" y="23" key="SettingsEditor" timestamp="1610344254641">
+      <screen x="0" y="23" width="1440" height="792" />
+    </state>
+    <state x="222" y="23" key="SettingsEditor/0.23.1440.792@0.23.1440.792" timestamp="1610344254641" />
   </component>
 </project>

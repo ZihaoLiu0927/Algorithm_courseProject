@@ -37,10 +37,12 @@
     <option name="sortByType" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="ToolWindowMessages.ShowToolbar" value="false" />
     <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.saveactions" />
@@ -115,10 +117,10 @@
       <screen x="0" y="23" width="1440" height="792" />
     </state>
     <state width="1069" height="263" key="GridCell.Tab.1.right/0.23.1440.792@0.23.1440.792" timestamp="1607846806978" />
-    <state x="259" y="23" key="SettingsEditor" timestamp="1607905281437">
+    <state x="259" y="23" key="SettingsEditor" timestamp="1610344175110">
       <screen x="0" y="23" width="1440" height="792" />
     </state>
-    <state x="259" y="23" key="SettingsEditor/0.23.1440.792@0.23.1440.792" timestamp="1607905281437" />
+    <state x="259" y="23" key="SettingsEditor/0.23.1440.792@0.23.1440.792" timestamp="1610344175110" />
     <state x="214" y="181" width="878" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1607846413845">
       <screen x="0" y="23" width="1440" height="792" />
     </state>

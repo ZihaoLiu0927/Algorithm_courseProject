@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2fe172a2-5db0-431d-88fc-e2954523fd53" name="Default Changelist" comment="" />
+    <list default="true" id="bc34ea95-f1ee-4aee-919a-cf0b917b63bf" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +24,7 @@
     <analyzeAfterCompile>true</analyzeAfterCompile>
     <toolWindowToFront>false</toolWindowToFront>
   </component>
-  <component name="ProjectId" id="1mGlkDvvyKDxrwrw0Tsz0nl17MS" />
+  <component name="ProjectId" id="1muLUq64w5wrvUyXb7Skn4a1nV5" />
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
     <option name="autoscrollFromSource" value="true" />
@@ -48,9 +48,9 @@
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
     </configuration>
-    <configuration name="Point" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Point" />
-      <module name="Collinear" />
+    <configuration name="PointSET" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PointSET" />
+      <module name="kdtree" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,54 +71,30 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Point" />
+        <item itemvalue="Application.PointSET" />
       </list>
     </recent_temporary>
   </component>
   <component name="WindowStateProjectService">
-    <state x="204" y="81" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609128069784">
+    <state width="1419" height="212" key="GridCell.Tab.0.bottom" timestamp="1610343557628">
       <screen x="0" y="23" width="1440" height="792" />
     </state>
-    <state x="204" y="81" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.792@0.23.1440.792" timestamp="1609128069784" />
-    <state width="1069" height="263" key="GridCell.Tab.0.bottom" timestamp="1609316540773">
+    <state width="1419" height="212" key="GridCell.Tab.0.bottom/0.23.1440.792@0.23.1440.792" timestamp="1610343557628" />
+    <state width="1419" height="212" key="GridCell.Tab.0.center" timestamp="1610343557628">
       <screen x="0" y="23" width="1440" height="792" />
     </state>
-    <state width="1069" height="263" key="GridCell.Tab.0.bottom/0.23.1440.792@0.23.1440.792" timestamp="1609316540773" />
-    <state width="1069" height="263" key="GridCell.Tab.0.center" timestamp="1609316540772">
+    <state width="1419" height="212" key="GridCell.Tab.0.center/0.23.1440.792@0.23.1440.792" timestamp="1610343557628" />
+    <state width="1419" height="212" key="GridCell.Tab.0.left" timestamp="1610343557627">
       <screen x="0" y="23" width="1440" height="792" />
     </state>
-    <state width="1069" height="263" key="GridCell.Tab.0.center/0.23.1440.792@0.23.1440.792" timestamp="1609316540772" />
-    <state width="1069" height="263" key="GridCell.Tab.0.left" timestamp="1609316540772">
+    <state width="1419" height="212" key="GridCell.Tab.0.left/0.23.1440.792@0.23.1440.792" timestamp="1610343557627" />
+    <state width="1419" height="212" key="GridCell.Tab.0.right" timestamp="1610343557628">
       <screen x="0" y="23" width="1440" height="792" />
     </state>
-    <state width="1069" height="263" key="GridCell.Tab.0.left/0.23.1440.792@0.23.1440.792" timestamp="1609316540772" />
-    <state width="1069" height="263" key="GridCell.Tab.0.right" timestamp="1609316540773">
+    <state width="1419" height="212" key="GridCell.Tab.0.right/0.23.1440.792@0.23.1440.792" timestamp="1610343557628" />
+    <state x="208" y="23" key="SettingsEditor" timestamp="1610344110628">
       <screen x="0" y="23" width="1440" height="792" />
     </state>
-    <state width="1069" height="263" key="GridCell.Tab.0.right/0.23.1440.792@0.23.1440.792" timestamp="1609316540773" />
-    <state width="1069" height="263" key="GridCell.Tab.1.bottom" timestamp="1609316540774">
-      <screen x="0" y="23" width="1440" height="792" />
-    </state>
-    <state width="1069" height="263" key="GridCell.Tab.1.bottom/0.23.1440.792@0.23.1440.792" timestamp="1609316540774" />
-    <state width="1069" height="263" key="GridCell.Tab.1.center" timestamp="1609316540773">
-      <screen x="0" y="23" width="1440" height="792" />
-    </state>
-    <state width="1069" height="263" key="GridCell.Tab.1.center/0.23.1440.792@0.23.1440.792" timestamp="1609316540773" />
-    <state width="1069" height="263" key="GridCell.Tab.1.left" timestamp="1609316540773">
-      <screen x="0" y="23" width="1440" height="792" />
-    </state>
-    <state width="1069" height="263" key="GridCell.Tab.1.left/0.23.1440.792@0.23.1440.792" timestamp="1609316540773" />
-    <state width="1069" height="263" key="GridCell.Tab.1.right" timestamp="1609316540773">
-      <screen x="0" y="23" width="1440" height="792" />
-    </state>
-    <state width="1069" height="263" key="GridCell.Tab.1.right/0.23.1440.792@0.23.1440.792" timestamp="1609316540773" />
-    <state x="228" y="23" key="SettingsEditor" timestamp="1610344273061">
-      <screen x="0" y="23" width="1440" height="792" />
-    </state>
-    <state x="228" y="23" key="SettingsEditor/0.23.1440.792@0.23.1440.792" timestamp="1610344273061" />
-    <state x="272" y="32" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1609292423943">
-      <screen x="0" y="23" width="1440" height="792" />
-    </state>
-    <state x="272" y="32" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.792@0.23.1440.792" timestamp="1609292423943" />
+    <state x="208" y="23" key="SettingsEditor/0.23.1440.792@0.23.1440.792" timestamp="1610344110628" />
   </component>
 </project>
