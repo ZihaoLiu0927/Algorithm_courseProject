@@ -6,7 +6,7 @@ import edu.princeton.cs.algs4.StdOut;
 import java.util.ArrayList;
 
 public class PointSET {
-    SET<Point2D> myset;
+    private final SET<Point2D> myset;
 
     // construct an empty set of points
     public PointSET() {
@@ -69,7 +69,7 @@ public class PointSET {
         double min = Double.POSITIVE_INFINITY;
         double tempDist;
         for (Point2D each : myset) {
-            tempDist = each.distanceTo(p);
+            tempDist = each.distanceSquaredTo(p);
             if (tempDist < min) {
                 min = tempDist;
                 minP = each;

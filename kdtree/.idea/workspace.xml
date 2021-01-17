@@ -43,10 +43,26 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.KdTree">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="KdTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KdTree" />
+      <module name="kdtree" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KdTreeVisualizer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KdTreeVisualizer" />
+      <module name="kdtree" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="PointSET" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PointSET" />
@@ -71,26 +87,32 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KdTree" />
+        <item itemvalue="Application.KdTreeVisualizer" />
         <item itemvalue="Application.PointSET" />
       </list>
     </recent_temporary>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1419" height="212" key="GridCell.Tab.0.bottom" timestamp="1610343557628">
-      <screen x="0" y="23" width="1440" height="792" />
+    <state width="1419" height="211" key="GridCell.Tab.0.bottom" timestamp="1610869834927">
+      <screen x="0" y="23" width="1440" height="789" />
     </state>
+    <state width="1419" height="211" key="GridCell.Tab.0.bottom/0.23.1440.789@0.23.1440.789" timestamp="1610869834927" />
     <state width="1419" height="212" key="GridCell.Tab.0.bottom/0.23.1440.792@0.23.1440.792" timestamp="1610343557628" />
-    <state width="1419" height="212" key="GridCell.Tab.0.center" timestamp="1610343557628">
-      <screen x="0" y="23" width="1440" height="792" />
+    <state width="1419" height="211" key="GridCell.Tab.0.center" timestamp="1610869834926">
+      <screen x="0" y="23" width="1440" height="789" />
     </state>
+    <state width="1419" height="211" key="GridCell.Tab.0.center/0.23.1440.789@0.23.1440.789" timestamp="1610869834926" />
     <state width="1419" height="212" key="GridCell.Tab.0.center/0.23.1440.792@0.23.1440.792" timestamp="1610343557628" />
-    <state width="1419" height="212" key="GridCell.Tab.0.left" timestamp="1610343557627">
-      <screen x="0" y="23" width="1440" height="792" />
+    <state width="1419" height="211" key="GridCell.Tab.0.left" timestamp="1610869834925">
+      <screen x="0" y="23" width="1440" height="789" />
     </state>
+    <state width="1419" height="211" key="GridCell.Tab.0.left/0.23.1440.789@0.23.1440.789" timestamp="1610869834925" />
     <state width="1419" height="212" key="GridCell.Tab.0.left/0.23.1440.792@0.23.1440.792" timestamp="1610343557627" />
-    <state width="1419" height="212" key="GridCell.Tab.0.right" timestamp="1610343557628">
-      <screen x="0" y="23" width="1440" height="792" />
+    <state width="1419" height="211" key="GridCell.Tab.0.right" timestamp="1610869834926">
+      <screen x="0" y="23" width="1440" height="789" />
     </state>
+    <state width="1419" height="211" key="GridCell.Tab.0.right/0.23.1440.789@0.23.1440.789" timestamp="1610869834926" />
     <state width="1419" height="212" key="GridCell.Tab.0.right/0.23.1440.792@0.23.1440.792" timestamp="1610343557628" />
     <state x="208" y="23" key="SettingsEditor" timestamp="1610344110628">
       <screen x="0" y="23" width="1440" height="792" />
