@@ -1,5 +1,5 @@
 # Algorithm (Part I) Course Projects
-  Algorithm (Coursera, by Kevin Wayne & Robert Sedgewick) course projects code recorded.
+  Algorithm (Coursera, by Kevin Wayne & Robert Sedgewick) course projects code records.
   
   Course website: https://www.coursera.org/learn/algorithms-part1
   
